@@ -1,8 +1,8 @@
 # Laravel Modular Base
 
-## About Laravel
+## About
 
-This repo is base for my laravel project.
+This repo is base for my laravel project. Using Laravel 6.0.
 
 ## Installation
 
