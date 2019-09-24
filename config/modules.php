@@ -151,10 +151,10 @@ return [
     */
 
     'composer' => [
-        'vendor' => 'nwidart',
+        'vendor' => 'dhanangpratama',
         'author' => [
-            'name' => 'Nicolas Widart',
-            'email' => 'n.widart@gmail.com',
+            'name' => 'Dhanang Pratama',
+            'email' => 'dhanangpratama@gmail.com',
         ],
     ],
     /*
